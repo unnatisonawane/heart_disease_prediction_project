@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @unnatisonawane
-- 👀 I’m interested in data science 
-- 🌱 I have completed Master's degree in statistics
--
+This repository contain my first project in python i.e. prediction of heart disease in upcoming 10 years
